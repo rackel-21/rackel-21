@@ -1,5 +1,6 @@
-### olá! 👋
-- 🌱 estudando C# 
+### olá! 😄 💜
+
+- ESTUDANTE DE ANÁLISE E DESENVOLVIMENTO DE SITEMAS. 
 
 <div>
    <a href="https://github.com/rackel-21">
