@@ -1,6 +1,7 @@
 ### olá! 😄 💜
 
 - ESTUDANTE DE ANÁLISE E DESENVOLVIMENTO DE SITEMAS. 
+- DESENVOLVIMENTO FRONT-END
 
 <div>
    <a href="https://github.com/rackel-21">
